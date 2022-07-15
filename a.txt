@@ -1,2 +1,3 @@
 blue hat
 red shirt
+green glove
